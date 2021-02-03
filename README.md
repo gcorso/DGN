@@ -16,15 +16,5 @@ We provide the implementation of the Directional Graph Networks (DGN) in PyTorch
 and [Open Graph Benchmark](https://ogb.stanford.edu/) to download the real-world benchmarks and train the DGN on them. 
 In `realworld_benchmark/README.md` we provide instructions for runnning the experiments.
 
-## Reference
-```
-@article{beaini2020directional,
-  title={Directional graph networks},
-  author={Beaini, Dominique and Passaro, Saro and L{\'e}tourneau, Vincent and Hamilton, William L and Corso, Gabriele and Li{\`o}, Pietro},
-  journal={arXiv preprint arXiv:2010.02863},
-  year={2020}
-}
-```
-
 ## License
 MIT
